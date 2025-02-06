@@ -1,7 +1,7 @@
 *.html linguist-detectable=false
-.build/** linguist-vendored
-.data/** linguist-vendored
-.dist/** linguist-vendored
+.build/* linguist-vendored
+.data/* linguist-vendored
+.dist/* linguist-vendored
 *.txt linguist-vendored
 *.png linguist-vendored
 *.py linguist-language=Python
