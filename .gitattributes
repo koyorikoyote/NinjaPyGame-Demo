@@ -3,4 +3,5 @@
 .data/** linguist-vendored
 .dist/** linguist-vendored
 *.txt linguist-vendored
+*.png linguist-vendored
 *.py linguist-language=Python
