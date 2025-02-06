@@ -2,5 +2,5 @@
 .build/** linguist-vendored
 .data/** linguist-vendored
 .dist/** linguist-vendored
-*.toc linguist-vendored
+*.txt linguist-vendored
 *.py linguist-language=Python
